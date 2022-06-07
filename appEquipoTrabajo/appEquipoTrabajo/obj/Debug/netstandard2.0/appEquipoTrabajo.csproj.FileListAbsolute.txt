@@ -1,0 +1,15 @@
+C:\Users\galve\source\Repos\appEquipoTrabajo\appEquipoTrabajo\bin\Debug\netstandard2.0\appEquipoTrabajo.deps.json
+C:\Users\galve\source\Repos\appEquipoTrabajo\appEquipoTrabajo\bin\Debug\netstandard2.0\appEquipoTrabajo.dll
+C:\Users\galve\source\Repos\appEquipoTrabajo\appEquipoTrabajo\bin\Debug\netstandard2.0\ref\appEquipoTrabajo.dll
+C:\Users\galve\source\Repos\appEquipoTrabajo\appEquipoTrabajo\bin\Debug\netstandard2.0\appEquipoTrabajo.pdb
+C:\Users\galve\source\Repos\appEquipoTrabajo\appEquipoTrabajo\obj\Debug\netstandard2.0\appEquipoTrabajo.csproj.AssemblyReference.cache
+C:\Users\galve\source\Repos\appEquipoTrabajo\appEquipoTrabajo\obj\Debug\netstandard2.0\appEquipoTrabajo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galve\source\Repos\appEquipoTrabajo\appEquipoTrabajo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\galve\source\Repos\appEquipoTrabajo\appEquipoTrabajo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\galve\source\Repos\appEquipoTrabajo\appEquipoTrabajo\obj\Debug\netstandard2.0\appEquipoTrabajo.AssemblyInfoInputs.cache
+C:\Users\galve\source\Repos\appEquipoTrabajo\appEquipoTrabajo\obj\Debug\netstandard2.0\appEquipoTrabajo.AssemblyInfo.cs
+C:\Users\galve\source\Repos\appEquipoTrabajo\appEquipoTrabajo\obj\Debug\netstandard2.0\appEquipoTrabajo.csproj.CoreCompileInputs.cache
+C:\Users\galve\source\Repos\appEquipoTrabajo\appEquipoTrabajo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\galve\source\Repos\appEquipoTrabajo\appEquipoTrabajo\obj\Debug\netstandard2.0\appEquipoTrabajo.dll
+C:\Users\galve\source\Repos\appEquipoTrabajo\appEquipoTrabajo\obj\Debug\netstandard2.0\ref\appEquipoTrabajo.dll
+C:\Users\galve\source\Repos\appEquipoTrabajo\appEquipoTrabajo\obj\Debug\netstandard2.0\appEquipoTrabajo.pdb

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0c8be2d1-9ad2-475b-90ba-6593200a3b53": {
+      "ProjectGuid": "0c8be2d1-9ad2-475b-90ba-6593200a3b53",
+      "DisplayName": "appEquipoTrabajo",
+      "ColorIndex": 0
+    },
+    "0fe65b2f-ac5e-485b-9fb1-f6cad8407b5a": {
+      "ProjectGuid": "0fe65b2f-ac5e-485b-9fb1-f6cad8407b5a",
+      "DisplayName": "appEquipoTrabajo.Android",
+      "ColorIndex": 1
+    },
+    "1b67a5f1-1109-4065-8ffe-88f832f71bfb": {
+      "ProjectGuid": "1b67a5f1-1109-4065-8ffe-88f832f71bfb",
+      "DisplayName": "appEquipoTrabajo.iOS",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

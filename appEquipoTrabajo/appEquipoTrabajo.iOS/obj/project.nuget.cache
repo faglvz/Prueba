@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "OQ3qAx76OW9CRT44ManYXMtL0keHYMUGR9N1y1Xxgl7OMDaGFOvok5n5I9L+A93MmiykEbO7YS0r9vPKJVbH1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\galve\\source\\Repos\\appEquipoTrabajo\\appEquipoTrabajo.iOS\\appEquipoTrabajo.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\galve\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\galve\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\galve\\.nuget\\packages\\xamarin.forms\\5.0.0.2337\\xamarin.forms.5.0.0.2337.nupkg.sha512",
+    "C:\\Users\\galve\\.nuget\\packages\\xamarin.forms.visual.material\\5.0.0.2337\\xamarin.forms.visual.material.5.0.0.2337.nupkg.sha512",
+    "C:\\Users\\galve\\.nuget\\packages\\xamarin.ios.materialcomponents\\92.0.0\\xamarin.ios.materialcomponents.92.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

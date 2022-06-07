@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="appEquipoTrabajo.MainPage"
+             
+             Visual="Material">
+    <!--se define Material Visual-->
+
+    <!--Se definen las propiedades del contenedor principal-->
+    <StackLayout Padding="16" VerticalOptions="FillAndExpand" 
+                 HorizontalOptions="FillAndExpand">
+    
+        <!--Agregar 2 etiquetas-->
+        <Label Text="Bienvenidos a mis grupos de Trabajo" FontSize="Large"
+               TextColor="#429fdd" 
+               HorizontalOptions="CenterAndExpand" VerticalOptions="Start"/>
+        <Label Text="Únete a nosotros " HorizontalTextAlignment="Center" 
+               VerticalOptions="Start"/>
+        
+        <!--Se agrega una imagen-->
+        <Image Source="movil.jpg" VerticalOptions="FillAndExpand" />
+
+        <!--Se agregan 2 botones-->
+        <Button Text="Unirme" TextColor="White" BackgroundColor="Red" 
+                VerticalOptions="End"  Clicked="UnirmeBtn_Clicked" />
+        <Button Text="Mensaje" TextColor="White"  BackgroundColor="Blue"
+                VerticalOptions="End" />
+    </StackLayout>
+
+</ContentPage>
